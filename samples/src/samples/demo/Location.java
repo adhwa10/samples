@@ -2,7 +2,6 @@ package samples.demo;
 
 public class Location {
 	private String melaka;
-	private String Johor;
 
 	public String getMelaka() {
 		return melaka;
